@@ -88,3 +88,7 @@ You can adjust the following parameters in the sketches to customize behavior:
 - `const byte n`: Number of readings to consider for the moving average.
 - `const float th`: Threshold for detecting touch events.
 - `delay(5)`: Adjust the delay time between readings if necessary.
+
+## Related Projects
+
+See the [haptics-demo](https://github.com/DMFDML/haptics-demo) repository for a Unity project that integrates the ESP32 with Bluetooth for interactive control of a haptic device.
